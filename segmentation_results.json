@@ -1,0 +1,332 @@
+{
+    "peaks.point.0": {
+        "startTime": 0.37642,
+        "id": "peaks.point.0",
+        "labelText": "jab"
+    },
+    "peaks.point.1": {
+        "startTime": 1.948142,
+        "id": "peaks.point.1",
+        "labelText": "jab"
+    },
+    "peaks.point.2": {
+        "startTime": 2.404807,
+        "id": "peaks.point.2",
+        "labelText": "jab"
+    },
+    "peaks.point.3": {
+        "startTime": 3.804084,
+        "id": "peaks.point.3",
+        "labelText": "jab"
+    },
+    "peaks.point.4": {
+        "startTime": 4.243032,
+        "id": "peaks.point.4",
+        "labelText": "jab"
+    },
+    "peaks.point.5": {
+        "startTime": 4.585434,
+        "id": "peaks.point.5",
+        "labelText": "jab"
+    },
+    "peaks.point.6": {
+        "startTime": 6.644075,
+        "id": "peaks.point.6",
+        "labelText": "jab"
+    },
+    "peaks.point.7": {
+        "startTime": 7.065259,
+        "id": "peaks.point.7",
+        "labelText": "jab"
+    },
+    "peaks.point.8": {
+        "startTime": 9.314774,
+        "id": "peaks.point.8",
+        "labelText": "jab"
+    },
+    "peaks.point.9": {
+        "startTime": 9.588063,
+        "id": "peaks.point.9",
+        "labelText": "cross"
+    },
+    "peaks.point.10": {
+        "startTime": 10.965618,
+        "id": "peaks.point.10",
+        "labelText": "jab"
+    },
+    "peaks.point.11": {
+        "startTime": 12.627072,
+        "id": "peaks.point.11",
+        "labelText": "jab"
+    },
+    "peaks.point.12": {
+        "startTime": 13.008701,
+        "id": "peaks.point.12",
+        "labelText": "cross"
+    },
+    "peaks.point.13": {
+        "startTime": 14.675011337868481,
+        "id": "peaks.point.13",
+        "labelText": "jab"
+    },
+    "peaks.point.14": {
+        "startTime": 15.047332,
+        "id": "peaks.point.14",
+        "labelText": "jab"
+    },
+    "peaks.point.15": {
+        "startTime": 15.467896,
+        "id": "peaks.point.15",
+        "labelText": "cross"
+    },
+    "peaks.point.16": {
+        "startTime": 17.166851,
+        "id": "peaks.point.16",
+        "labelText": "jab"
+    },
+    "peaks.point.17": {
+        "startTime": 18.359183,
+        "id": "peaks.point.17",
+        "labelText": "jab"
+    },
+    "peaks.point.18": {
+        "startTime": 18.726557,
+        "id": "peaks.point.18",
+        "labelText": "hook"
+    },
+    "peaks.point.19": {
+        "startTime": 19.035864,
+        "id": "peaks.point.19",
+        "labelText": "cross"
+    },
+    "peaks.point.20": {
+        "startTime": 20.174777,
+        "id": "peaks.point.20",
+        "labelText": "jab"
+    },
+    "peaks.point.21": {
+        "startTime": 21.318093,
+        "id": "peaks.point.21",
+        "labelText": "jab"
+    },
+    "peaks.point.22": {
+        "startTime": 21.61057,
+        "id": "peaks.point.22",
+        "labelText": "uppercut"
+    },
+    "peaks.point.23": {
+        "startTime": 22.875514,
+        "id": "peaks.point.23",
+        "labelText": "cross"
+    },
+    "peaks.point.24": {
+        "startTime": 23.313551,
+        "id": "peaks.point.24",
+        "labelText": "uppercut"
+    },
+    "peaks.point.25": {
+        "startTime": 24.860154,
+        "id": "peaks.point.25",
+        "labelText": "jab"
+    },
+    "peaks.point.26": {
+        "startTime": 25.266534,
+        "id": "peaks.point.26",
+        "labelText": "jab"
+    },
+    "peaks.point.27": {
+        "startTime": 26.683338,
+        "id": "peaks.point.27",
+        "labelText": "jab"
+    },
+    "peaks.point.28": {
+        "startTime": 26.888936,
+        "id": "peaks.point.28",
+        "labelText": "cross"
+    },
+    "peaks.point.29": {
+        "startTime": 27.205459,
+        "id": "peaks.point.29",
+        "labelText": "jab"
+    },
+    "peaks.point.30": {
+        "startTime": 28.511636,
+        "id": "peaks.point.30",
+        "labelText": "jab"
+    },
+    "peaks.point.31": {
+        "startTime": 28.846405,
+        "id": "peaks.point.31",
+        "labelText": "hook"
+    },
+    "peaks.point.32": {
+        "startTime": 29.12718,
+        "id": "peaks.point.32",
+        "labelText": "cross"
+    },
+    "peaks.point.33": {
+        "startTime": 30.743782,
+        "id": "peaks.point.33",
+        "labelText": "jab"
+    },
+    "peaks.point.34": {
+        "startTime": 30.98881,
+        "id": "peaks.point.34",
+        "labelText": "uppercut"
+    },
+    "peaks.point.35": {
+        "startTime": 32.265113,
+        "id": "peaks.point.35",
+        "labelText": "cross"
+    },
+    "peaks.point.36": {
+        "startTime": 32.587244,
+        "id": "peaks.point.36",
+        "labelText": "uppercut"
+    },
+    "peaks.point.37": {
+        "startTime": 33.78932,
+        "id": "peaks.point.37",
+        "labelText": "jab"
+    },
+    "peaks.point.38": {
+        "startTime": 34.691212,
+        "id": "peaks.point.38",
+        "labelText": "jab"
+    },
+    "peaks.point.39": {
+        "startTime": 35.076533,
+        "id": "peaks.point.39",
+        "labelText": "jab"
+    },
+    "peaks.point.40": {
+        "startTime": 36.101737,
+        "id": "peaks.point.40",
+        "labelText": "jab"
+    },
+    "peaks.point.41": {
+        "startTime": 36.503845,
+        "id": "peaks.point.41",
+        "labelText": "jab"
+    },
+    "peaks.point.42": {
+        "startTime": 36.715836,
+        "id": "peaks.point.42",
+        "labelText": "cross"
+    },
+    "peaks.point.43": {
+        "startTime": 38.193811,
+        "id": "peaks.point.43",
+        "labelText": "jab"
+    },
+    "peaks.point.44": {
+        "startTime": 39.574709,
+        "id": "peaks.point.44",
+        "labelText": "jab"
+    },
+    "peaks.point.45": {
+        "startTime": 39.821129,
+        "id": "peaks.point.45",
+        "labelText": "cross"
+    },
+    "peaks.point.46": {
+        "startTime": 40.980658,
+        "id": "peaks.point.46",
+        "labelText": "jab"
+    },
+    "peaks.point.47": {
+        "startTime": 42.488974,
+        "id": "peaks.point.47",
+        "labelText": "cross"
+    },
+    "peaks.point.48": {
+        "startTime": 42.860475,
+        "id": "peaks.point.48",
+        "labelText": "uppercut"
+    },
+    "peaks.point.49": {
+        "startTime": 44.302591,
+        "id": "peaks.point.49",
+        "labelText": "jab"
+    },
+    "peaks.point.50": {
+        "startTime": 44.65368,
+        "id": "peaks.point.50",
+        "labelText": "hook"
+    },
+    "peaks.point.51": {
+        "startTime": 44.97874,
+        "id": "peaks.point.51",
+        "labelText": "hook"
+    },
+    "peaks.point.52": {
+        "startTime": 46.323315,
+        "id": "peaks.point.52",
+        "labelText": "jab"
+    },
+    "peaks.point.53": {
+        "startTime": 46.718548752834465,
+        "id": "peaks.point.53",
+        "labelText": "uppercut"
+    },
+    "peaks.point.54": {
+        "startTime": 48.398359,
+        "id": "peaks.point.54",
+        "labelText": "jab"
+    },
+    "peaks.point.55": {
+        "startTime": 48.622986,
+        "id": "peaks.point.55",
+        "labelText": "cross"
+    },
+    "peaks.point.56": {
+        "startTime": 48.866834,
+        "id": "peaks.point.56",
+        "labelText": "hook"
+    },
+    "peaks.point.57": {
+        "startTime": 50.269287,
+        "id": "peaks.point.57",
+        "labelText": "jab"
+    },
+    "peaks.point.58": {
+        "startTime": 50.481188,
+        "id": "peaks.point.58",
+        "labelText": "cross"
+    },
+    "peaks.point.59": {
+        "startTime": 50.773226,
+        "id": "peaks.point.59",
+        "labelText": "hook"
+    },
+    "peaks.point.60": {
+        "startTime": 52.145178,
+        "id": "peaks.point.60",
+        "labelText": "cross"
+    },
+    "peaks.point.61": {
+        "startTime": 52.46122,
+        "id": "peaks.point.61",
+        "labelText": "hook"
+    },
+    "peaks.point.62": {
+        "startTime": 54.064763,
+        "id": "peaks.point.62",
+        "labelText": "jab"
+    },
+    "peaks.point.63": {
+        "startTime": 54.570243,
+        "id": "peaks.point.63",
+        "labelText": "uppercut"
+    },
+    "peaks.point.64": {
+        "startTime": 55.294558,
+        "id": "peaks.point.64",
+        "labelText": "cross"
+    },
+    "peaks.point.65": {
+        "startTime": 56.658445,
+        "id": "peaks.point.65",
+        "labelText": "jab"
+    }
+}
